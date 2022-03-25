@@ -1,5 +1,7 @@
 ### Hi👋 I'm @klezi10
  I'm currently learning Frontend Development, focusing on JavaScript and React.
+ 
+ Check out my last project <a href="https://github.com/klezi10/random-password-generator">Random Password Generator</a> built in vanilla JavaScript.
 
 <!--
 **klezi10/klezi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
