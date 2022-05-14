@@ -1,7 +1,7 @@
 ### Welcome👋
  I'm currently learning Frontend Development, focusing on JavaScript and React.
  
- My most recent project in React is a <a href="https://github.com/klezi10/react-my-dictionary-app">Dictionary App</a> though I am still working on finalizing the design.
+ My most recent project in React is a <a href="https://github.com/klezi10/react-my-dictionary-app">Dictionary App</a> though I am still working on finalizing the design. The app uses state management and two different API integrations.
  
  Check out my last projects in vanilla JavaScript: <a href="https://github.com/klezi10/random-password-generator">Random Password Generator</a> and a coding challenge <a href="https://github.com/klezi10/Coding-Challenge-Tip-Calculator-app">Tip Calculator App</a>.
 
