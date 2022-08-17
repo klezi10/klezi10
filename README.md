@@ -3,6 +3,8 @@
  
  My most recent project in React is a <a href="https://github.com/klezi10/react-my-dictionary-app">Dictionary App</a>. The app uses state management and two different API integrations.
  
+ I'm currently working on <a href="https://github.com/klezi10/foodster">Food order menu app with Cart using Redux</a>.
+ 
  Check out my last project in vanilla JavaScript: <a href="https://github.com/klezi10/random-password-generator">Random Password Generator</a> coded from a Figma design.
 
 <!--
