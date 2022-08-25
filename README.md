@@ -1,5 +1,5 @@
 ### Welcome👋
- I'm currently learning Frontend Development, focusing on JavaScript and React.
+ I'm a Frontend Developer, focusing on JavaScript and React.
  
  My most recent project in React is a <a href="https://github.com/klezi10/react-my-dictionary-app">Dictionary App</a>. The app uses state management and two different API integrations.
  
