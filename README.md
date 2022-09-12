@@ -4,8 +4,6 @@
  I'm currently working on <a href="https://github.com/klezi10/foodster">Food order menu app with Cart using Redux</a> and a group project called <a href="https://github.com/chingu-voyages/v40-geckos-team-19">WeDesign</a>, both built in React.
  
  My most recent personal project in React is a <a href="https://github.com/klezi10/react-my-dictionary-app">Dictionary App</a>. The app uses state management and two different API integrations.
- 
- Check out my last project in vanilla JavaScript: <a href="https://github.com/klezi10/random-password-generator">Random Password Generator</a> coded from a Figma design.
 
 <!--
 **klezi10/klezi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
